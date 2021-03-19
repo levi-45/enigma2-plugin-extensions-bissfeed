@@ -1,1 +1,1 @@
-# enigma2-plugin-extensions-bissfeed
+# enigma2-plugin-extensions-feedfinder
